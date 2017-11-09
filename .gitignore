@@ -1,1 +1,5 @@
 *.out
+*.txt
+*.pyc
+outputs/
+gen/
